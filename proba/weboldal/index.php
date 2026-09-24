@@ -7,5 +7,6 @@
     </head>
     <body>
         sample text
+        <p>sample text</p>
     </body>
 </html>
